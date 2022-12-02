@@ -1,0 +1,15 @@
+[submodule "binotify-config"]
+	path = binotify-config
+	url = https://github.com/gagaspbahar/binotify-config
+[submodule "binotify-premium-app"]
+	path = binotify-premium-app
+	url = https://github.com/gagaspbahar/binotify-premium-app
+[submodule "binotify-app"]
+	path = binotify-app
+	url = https://github.com/gagaspbahar/binotify-app
+[submodule "binotify-soap"]
+	path = binotify-soap
+	url = https://github.com/gagaspbahar/binotify-soap
+[submodule "binotify-rest"]
+	path = binotify-rest
+	url = https://github.com/gagaspbahar/binotify-rest
